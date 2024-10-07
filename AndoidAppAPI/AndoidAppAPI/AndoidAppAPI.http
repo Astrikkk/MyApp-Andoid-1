@@ -1,0 +1,6 @@
+@AndoidAppAPI_HostAddress = http://localhost:5107
+
+GET {{AndoidAppAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
