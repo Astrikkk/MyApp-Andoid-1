@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Astragor\\source\\repos\\AndoidAppAPI\\AndoidAppAPI\\AndoidAppAPI.csproj": {}
+    "D:\\Code\\IT-Step-Projects\\MyApp-Andoid-1\\AndoidAppAPI\\AndoidAppAPI\\AndoidAppAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Astragor\\source\\repos\\AndoidAppAPI\\AndoidAppAPI\\AndoidAppAPI.csproj": {
+    "D:\\Code\\IT-Step-Projects\\MyApp-Andoid-1\\AndoidAppAPI\\AndoidAppAPI\\AndoidAppAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Astragor\\source\\repos\\AndoidAppAPI\\AndoidAppAPI\\AndoidAppAPI.csproj",
+        "projectUniqueName": "D:\\Code\\IT-Step-Projects\\MyApp-Andoid-1\\AndoidAppAPI\\AndoidAppAPI\\AndoidAppAPI.csproj",
         "projectName": "AndoidAppAPI",
-        "projectPath": "C:\\Users\\Astragor\\source\\repos\\AndoidAppAPI\\AndoidAppAPI\\AndoidAppAPI.csproj",
-        "packagesPath": "C:\\Users\\Astragor\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Astragor\\source\\repos\\AndoidAppAPI\\AndoidAppAPI\\obj\\",
+        "projectPath": "D:\\Code\\IT-Step-Projects\\MyApp-Andoid-1\\AndoidAppAPI\\AndoidAppAPI\\AndoidAppAPI.csproj",
+        "packagesPath": "C:\\Users\\ukrvl\\.nuget\\packages\\",
+        "outputPath": "D:\\Code\\IT-Step-Projects\\MyApp-Andoid-1\\AndoidAppAPI\\AndoidAppAPI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Astragor\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ukrvl\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -92,7 +92,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

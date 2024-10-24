@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AndoidAppAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+daee77c3db3751ea4655bdeeda9082b80764dfc4")]
 [assembly: System.Reflection.AssemblyProductAttribute("AndoidAppAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AndoidAppAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
