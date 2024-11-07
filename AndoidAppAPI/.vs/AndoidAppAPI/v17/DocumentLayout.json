@@ -7,32 +7,60 @@
       "RelativeMoniker": "D:0:0:{EE33ACEF-546A-4955-A3CD-F05004233447}|AndoidAppAPI\\AndoidAppAPI.csproj|solutionrelative:andoidappapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EE33ACEF-546A-4955-A3CD-F05004233447}|AndoidAppAPI\\AndoidAppAPI.csproj|d:\\code\\it-step-projects\\myapp-andoid-1\\andoidappapi\\andoidappapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{EE33ACEF-546A-4955-A3CD-F05004233447}|AndoidAppAPI\\AndoidAppAPI.csproj|solutionrelative:andoidappapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{EE33ACEF-546A-4955-A3CD-F05004233447}|AndoidAppAPI\\AndoidAppAPI.csproj|d:\\code\\it-step-projects\\myapp-andoid-1\\andoidappapi\\andoidappapi\\services\\imageworker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE33ACEF-546A-4955-A3CD-F05004233447}|AndoidAppAPI\\AndoidAppAPI.csproj|solutionrelative:andoidappapi\\services\\imageworker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EE33ACEF-546A-4955-A3CD-F05004233447}|AndoidAppAPI\\AndoidAppAPI.csproj|d:\\code\\it-step-projects\\myapp-andoid-1\\andoidappapi\\andoidappapi\\migrations\\20241005110212_init migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EE33ACEF-546A-4955-A3CD-F05004233447}|AndoidAppAPI\\AndoidAppAPI.csproj|solutionrelative:andoidappapi\\migrations\\20241005110212_init migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EE33ACEF-546A-4955-A3CD-F05004233447}|AndoidAppAPI\\AndoidAppAPI.csproj|d:\\code\\it-step-projects\\myapp-andoid-1\\andoidappapi\\andoidappapi\\mapper\\appmapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE33ACEF-546A-4955-A3CD-F05004233447}|AndoidAppAPI\\AndoidAppAPI.csproj|solutionrelative:andoidappapi\\mapper\\appmapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EE33ACEF-546A-4955-A3CD-F05004233447}|AndoidAppAPI\\AndoidAppAPI.csproj|d:\\code\\it-step-projects\\myapp-andoid-1\\andoidappapi\\andoidappapi\\andoidappapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{EE33ACEF-546A-4955-A3CD-F05004233447}|AndoidAppAPI\\AndoidAppAPI.csproj|solutionrelative:andoidappapi\\andoidappapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{EE33ACEF-546A-4955-A3CD-F05004233447}|AndoidAppAPI\\AndoidAppAPI.csproj|d:\\code\\it-step-projects\\myapp-andoid-1\\andoidappapi\\andoidappapi\\data\\seederdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE33ACEF-546A-4955-A3CD-F05004233447}|AndoidAppAPI\\AndoidAppAPI.csproj|solutionrelative:andoidappapi\\data\\seederdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EE33ACEF-546A-4955-A3CD-F05004233447}|AndoidAppAPI\\AndoidAppAPI.csproj|d:\\code\\it-step-projects\\myapp-andoid-1\\andoidappapi\\andoidappapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{EE33ACEF-546A-4955-A3CD-F05004233447}|AndoidAppAPI\\AndoidAppAPI.csproj|solutionrelative:andoidappapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EE33ACEF-546A-4955-A3CD-F05004233447}|AndoidAppAPI\\AndoidAppAPI.csproj|d:\\code\\it-step-projects\\myapp-andoid-1\\andoidappapi\\andoidappapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{EE33ACEF-546A-4955-A3CD-F05004233447}|AndoidAppAPI\\AndoidAppAPI.csproj|solutionrelative:andoidappapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{EE33ACEF-546A-4955-A3CD-F05004233447}|AndoidAppAPI\\AndoidAppAPI.csproj|d:\\code\\it-step-projects\\myapp-andoid-1\\andoidappapi\\andoidappapi\\constants\\roles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE33ACEF-546A-4955-A3CD-F05004233447}|AndoidAppAPI\\AndoidAppAPI.csproj|solutionrelative:andoidappapi\\constants\\roles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EE33ACEF-546A-4955-A3CD-F05004233447}|AndoidAppAPI\\AndoidAppAPI.csproj|d:\\code\\it-step-projects\\myapp-andoid-1\\andoidappapi\\andoidappapi\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EE33ACEF-546A-4955-A3CD-F05004233447}|AndoidAppAPI\\AndoidAppAPI.csproj|solutionrelative:andoidappapi\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{EE33ACEF-546A-4955-A3CD-F05004233447}|AndoidAppAPI\\AndoidAppAPI.csproj|d:\\code\\it-step-projects\\myapp-andoid-1\\andoidappapi\\andoidappapi\\data\\entities\\identity\\userroleentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE33ACEF-546A-4955-A3CD-F05004233447}|AndoidAppAPI\\AndoidAppAPI.csproj|solutionrelative:andoidappapi\\data\\entities\\identity\\userroleentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE33ACEF-546A-4955-A3CD-F05004233447}|AndoidAppAPI\\AndoidAppAPI.csproj|d:\\code\\it-step-projects\\myapp-andoid-1\\andoidappapi\\andoidappapi\\data\\entities\\identity\\userentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE33ACEF-546A-4955-A3CD-F05004233447}|AndoidAppAPI\\AndoidAppAPI.csproj|solutionrelative:andoidappapi\\data\\entities\\identity\\userentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE33ACEF-546A-4955-A3CD-F05004233447}|AndoidAppAPI\\AndoidAppAPI.csproj|d:\\code\\it-step-projects\\myapp-andoid-1\\andoidappapi\\andoidappapi\\data\\entities\\identity\\roleentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE33ACEF-546A-4955-A3CD-F05004233447}|AndoidAppAPI\\AndoidAppAPI.csproj|solutionrelative:andoidappapi\\data\\entities\\identity\\roleentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE33ACEF-546A-4955-A3CD-F05004233447}|AndoidAppAPI\\AndoidAppAPI.csproj|d:\\code\\it-step-projects\\myapp-andoid-1\\andoidappapi\\andoidappapi\\andoidappapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{EE33ACEF-546A-4955-A3CD-F05004233447}|AndoidAppAPI\\AndoidAppAPI.csproj|solutionrelative:andoidappapi\\andoidappapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE33ACEF-546A-4955-A3CD-F05004233447}|AndoidAppAPI\\AndoidAppAPI.csproj|d:\\code\\it-step-projects\\myapp-andoid-1\\andoidappapi\\andoidappapi\\data\\entities\\productimageentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE33ACEF-546A-4955-A3CD-F05004233447}|AndoidAppAPI\\AndoidAppAPI.csproj|solutionrelative:andoidappapi\\data\\entities\\productimageentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE33ACEF-546A-4955-A3CD-F05004233447}|AndoidAppAPI\\AndoidAppAPI.csproj|d:\\code\\it-step-projects\\myapp-andoid-1\\andoidappapi\\andoidappapi\\data\\entities\\categoryentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE33ACEF-546A-4955-A3CD-F05004233447}|AndoidAppAPI\\AndoidAppAPI.csproj|solutionrelative:andoidappapi\\data\\entities\\categoryentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE33ACEF-546A-4955-A3CD-F05004233447}|AndoidAppAPI\\AndoidAppAPI.csproj|d:\\code\\it-step-projects\\myapp-andoid-1\\andoidappapi\\andoidappapi\\data\\entities\\productentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE33ACEF-546A-4955-A3CD-F05004233447}|AndoidAppAPI\\AndoidAppAPI.csproj|solutionrelative:andoidappapi\\data\\entities\\productentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{EE33ACEF-546A-4955-A3CD-F05004233447}|AndoidAppAPI\\AndoidAppAPI.csproj|d:\\code\\it-step-projects\\myapp-andoid-1\\andoidappapi\\andoidappapi\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EE33ACEF-546A-4955-A3CD-F05004233447}|AndoidAppAPI\\AndoidAppAPI.csproj|solutionrelative:andoidappapi\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE33ACEF-546A-4955-A3CD-F05004233447}|AndoidAppAPI\\AndoidAppAPI.csproj|d:\\code\\it-step-projects\\myapp-andoid-1\\andoidappapi\\andoidappapi\\models\\product\\productviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE33ACEF-546A-4955-A3CD-F05004233447}|AndoidAppAPI\\AndoidAppAPI.csproj|solutionrelative:andoidappapi\\models\\product\\productviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EE33ACEF-546A-4955-A3CD-F05004233447}|AndoidAppAPI\\AndoidAppAPI.csproj|d:\\code\\it-step-projects\\myapp-andoid-1\\andoidappapi\\andoidappapi\\models\\category\\categoryitemmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -43,16 +71,24 @@
       "RelativeMoniker": "D:0:0:{EE33ACEF-546A-4955-A3CD-F05004233447}|AndoidAppAPI\\AndoidAppAPI.csproj|solutionrelative:andoidappapi\\models\\category\\categorycreatemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EE33ACEF-546A-4955-A3CD-F05004233447}|AndoidAppAPI\\AndoidAppAPI.csproj|d:\\code\\it-step-projects\\myapp-andoid-1\\andoidappapi\\andoidappapi\\mapper\\appmapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EE33ACEF-546A-4955-A3CD-F05004233447}|AndoidAppAPI\\AndoidAppAPI.csproj|solutionrelative:andoidappapi\\mapper\\appmapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EE33ACEF-546A-4955-A3CD-F05004233447}|AndoidAppAPI\\AndoidAppAPI.csproj|d:\\code\\it-step-projects\\myapp-andoid-1\\andoidappapi\\andoidappapi\\interfaces\\iimageworker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE33ACEF-546A-4955-A3CD-F05004233447}|AndoidAppAPI\\AndoidAppAPI.csproj|solutionrelative:andoidappapi\\interfaces\\iimageworker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EE33ACEF-546A-4955-A3CD-F05004233447}|AndoidAppAPI\\AndoidAppAPI.csproj|d:\\code\\it-step-projects\\myapp-andoid-1\\andoidappapi\\andoidappapi\\data\\entities\\categoryentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EE33ACEF-546A-4955-A3CD-F05004233447}|AndoidAppAPI\\AndoidAppAPI.csproj|solutionrelative:andoidappapi\\data\\entities\\categoryentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EE33ACEF-546A-4955-A3CD-F05004233447}|AndoidAppAPI\\AndoidAppAPI.csproj|d:\\code\\it-step-projects\\myapp-andoid-1\\andoidappapi\\andoidappapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EE33ACEF-546A-4955-A3CD-F05004233447}|AndoidAppAPI\\AndoidAppAPI.csproj|solutionrelative:andoidappapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EE33ACEF-546A-4955-A3CD-F05004233447}|AndoidAppAPI\\AndoidAppAPI.csproj|d:\\code\\it-step-projects\\myapp-andoid-1\\andoidappapi\\andoidappapi\\data\\entities\\productentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EE33ACEF-546A-4955-A3CD-F05004233447}|AndoidAppAPI\\AndoidAppAPI.csproj|solutionrelative:andoidappapi\\data\\entities\\productentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EE33ACEF-546A-4955-A3CD-F05004233447}|AndoidAppAPI\\AndoidAppAPI.csproj|d:\\code\\it-step-projects\\myapp-andoid-1\\andoidappapi\\andoidappapi\\migrations\\20241005110212_init migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE33ACEF-546A-4955-A3CD-F05004233447}|AndoidAppAPI\\AndoidAppAPI.csproj|solutionrelative:andoidappapi\\migrations\\20241005110212_init migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE33ACEF-546A-4955-A3CD-F05004233447}|AndoidAppAPI\\AndoidAppAPI.csproj|d:\\code\\it-step-projects\\myapp-andoid-1\\andoidappapi\\andoidappapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EE33ACEF-546A-4955-A3CD-F05004233447}|AndoidAppAPI\\AndoidAppAPI.csproj|solutionrelative:andoidappapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE33ACEF-546A-4955-A3CD-F05004233447}|AndoidAppAPI\\AndoidAppAPI.csproj|d:\\code\\it-step-projects\\myapp-andoid-1\\andoidappapi\\andoidappapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EE33ACEF-546A-4955-A3CD-F05004233447}|AndoidAppAPI\\AndoidAppAPI.csproj|solutionrelative:andoidappapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -62,55 +98,111 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "20241005110212_Init Migration.cs",
-              "DocumentMoniker": "D:\\Code\\IT-Step-Projects\\MyApp-Andoid-1\\AndoidAppAPI\\AndoidAppAPI\\Migrations\\20241005110212_Init Migration.cs",
-              "RelativeDocumentMoniker": "AndoidAppAPI\\Migrations\\20241005110212_Init Migration.cs",
-              "ToolTip": "D:\\Code\\IT-Step-Projects\\MyApp-Andoid-1\\AndoidAppAPI\\AndoidAppAPI\\Migrations\\20241005110212_Init Migration.cs",
-              "RelativeToolTip": "AndoidAppAPI\\Migrations\\20241005110212_Init Migration.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAA9AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-05T11:02:30.626Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "appsettings.Development.json",
-              "DocumentMoniker": "D:\\Code\\IT-Step-Projects\\MyApp-Andoid-1\\AndoidAppAPI\\AndoidAppAPI\\appsettings.Development.json",
-              "RelativeDocumentMoniker": "AndoidAppAPI\\appsettings.Development.json",
-              "ToolTip": "D:\\Code\\IT-Step-Projects\\MyApp-Andoid-1\\AndoidAppAPI\\AndoidAppAPI\\appsettings.Development.json",
-              "RelativeToolTip": "AndoidAppAPI\\appsettings.Development.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-10-05T10:51:23.115Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\Code\\IT-Step-Projects\\MyApp-Andoid-1\\AndoidAppAPI\\AndoidAppAPI\\appsettings.json",
-              "RelativeDocumentMoniker": "AndoidAppAPI\\appsettings.json",
-              "ToolTip": "D:\\Code\\IT-Step-Projects\\MyApp-Andoid-1\\AndoidAppAPI\\AndoidAppAPI\\appsettings.json",
-              "RelativeToolTip": "AndoidAppAPI\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-10-05T10:51:12.673Z"
+              "Title": "Roles.cs",
+              "DocumentMoniker": "D:\\Code\\IT-Step-Projects\\MyApp-Andoid-1\\AndoidAppAPI\\AndoidAppAPI\\Constants\\Roles.cs",
+              "RelativeDocumentMoniker": "AndoidAppAPI\\Constants\\Roles.cs",
+              "ToolTip": "D:\\Code\\IT-Step-Projects\\MyApp-Andoid-1\\AndoidAppAPI\\AndoidAppAPI\\Constants\\Roles.cs",
+              "RelativeToolTip": "AndoidAppAPI\\Constants\\Roles.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T15:30:40.083Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RoleEntity.cs",
+              "DocumentMoniker": "D:\\Code\\IT-Step-Projects\\MyApp-Andoid-1\\AndoidAppAPI\\AndoidAppAPI\\Data\\Entities\\Identity\\RoleEntity.cs",
+              "RelativeDocumentMoniker": "AndoidAppAPI\\Data\\Entities\\Identity\\RoleEntity.cs",
+              "ToolTip": "D:\\Code\\IT-Step-Projects\\MyApp-Andoid-1\\AndoidAppAPI\\AndoidAppAPI\\Data\\Entities\\Identity\\RoleEntity.cs",
+              "RelativeToolTip": "AndoidAppAPI\\Data\\Entities\\Identity\\RoleEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T15:28:56.114Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserRoleEntity.cs",
+              "DocumentMoniker": "D:\\Code\\IT-Step-Projects\\MyApp-Andoid-1\\AndoidAppAPI\\AndoidAppAPI\\Data\\Entities\\Identity\\UserRoleEntity.cs",
+              "RelativeDocumentMoniker": "AndoidAppAPI\\Data\\Entities\\Identity\\UserRoleEntity.cs",
+              "ToolTip": "D:\\Code\\IT-Step-Projects\\MyApp-Andoid-1\\AndoidAppAPI\\AndoidAppAPI\\Data\\Entities\\Identity\\UserRoleEntity.cs",
+              "RelativeToolTip": "AndoidAppAPI\\Data\\Entities\\Identity\\UserRoleEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T15:28:41.082Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserEntity.cs",
+              "DocumentMoniker": "D:\\Code\\IT-Step-Projects\\MyApp-Andoid-1\\AndoidAppAPI\\AndoidAppAPI\\Data\\Entities\\Identity\\UserEntity.cs",
+              "RelativeDocumentMoniker": "AndoidAppAPI\\Data\\Entities\\Identity\\UserEntity.cs",
+              "ToolTip": "D:\\Code\\IT-Step-Projects\\MyApp-Andoid-1\\AndoidAppAPI\\AndoidAppAPI\\Data\\Entities\\Identity\\UserEntity.cs",
+              "RelativeToolTip": "AndoidAppAPI\\Data\\Entities\\Identity\\UserEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T15:27:56.161Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ProductImageEntity.cs",
+              "DocumentMoniker": "D:\\Code\\IT-Step-Projects\\MyApp-Andoid-1\\AndoidAppAPI\\AndoidAppAPI\\Data\\Entities\\ProductImageEntity.cs",
+              "RelativeDocumentMoniker": "AndoidAppAPI\\Data\\Entities\\ProductImageEntity.cs",
+              "ToolTip": "D:\\Code\\IT-Step-Projects\\MyApp-Andoid-1\\AndoidAppAPI\\AndoidAppAPI\\Data\\Entities\\ProductImageEntity.cs",
+              "RelativeToolTip": "AndoidAppAPI\\Data\\Entities\\ProductImageEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T15:19:25.948Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "AndoidAppAPI.csproj",
-              "DocumentMoniker": "D:\\Code\\IT-Step-Projects\\MyApp-Andoid-1\\AndoidAppAPI\\AndoidAppAPI\\AndoidAppAPI.csproj",
-              "RelativeDocumentMoniker": "AndoidAppAPI\\AndoidAppAPI.csproj",
-              "ToolTip": "D:\\Code\\IT-Step-Projects\\MyApp-Andoid-1\\AndoidAppAPI\\AndoidAppAPI\\AndoidAppAPI.csproj",
-              "RelativeToolTip": "AndoidAppAPI\\AndoidAppAPI.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-10-04T14:50:49.218Z"
+              "Title": "SeederDB.cs",
+              "DocumentMoniker": "D:\\Code\\IT-Step-Projects\\MyApp-Andoid-1\\AndoidAppAPI\\AndoidAppAPI\\Data\\SeederDB.cs",
+              "RelativeDocumentMoniker": "AndoidAppAPI\\Data\\SeederDB.cs",
+              "ToolTip": "D:\\Code\\IT-Step-Projects\\MyApp-Andoid-1\\AndoidAppAPI\\AndoidAppAPI\\Data\\SeederDB.cs",
+              "RelativeToolTip": "AndoidAppAPI\\Data\\SeederDB.cs",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAAAAwAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T15:18:00.78Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\Code\\IT-Step-Projects\\MyApp-Andoid-1\\AndoidAppAPI\\AndoidAppAPI\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "AndoidAppAPI\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\Code\\IT-Step-Projects\\MyApp-Andoid-1\\AndoidAppAPI\\AndoidAppAPI\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "AndoidAppAPI\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T10:43:03.377Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AppMapperProfile.cs",
+              "DocumentMoniker": "D:\\Code\\IT-Step-Projects\\MyApp-Andoid-1\\AndoidAppAPI\\AndoidAppAPI\\Mapper\\AppMapperProfile.cs",
+              "RelativeDocumentMoniker": "AndoidAppAPI\\Mapper\\AppMapperProfile.cs",
+              "ToolTip": "D:\\Code\\IT-Step-Projects\\MyApp-Andoid-1\\AndoidAppAPI\\AndoidAppAPI\\Mapper\\AppMapperProfile.cs",
+              "RelativeToolTip": "AndoidAppAPI\\Mapper\\AppMapperProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T10:46:17.78Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -120,82 +212,23 @@
               "RelativeDocumentMoniker": "AndoidAppAPI\\Program.cs",
               "ToolTip": "D:\\Code\\IT-Step-Projects\\MyApp-Andoid-1\\AndoidAppAPI\\AndoidAppAPI\\Program.cs",
               "RelativeToolTip": "AndoidAppAPI\\Program.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-01T10:46:00.762Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "CategoryCreateModel.cs",
-              "DocumentMoniker": "D:\\Code\\IT-Step-Projects\\MyApp-Andoid-1\\AndoidAppAPI\\AndoidAppAPI\\Models\\Category\\CategoryCreateModel.cs",
-              "RelativeDocumentMoniker": "AndoidAppAPI\\Models\\Category\\CategoryCreateModel.cs",
-              "ToolTip": "D:\\Code\\IT-Step-Projects\\MyApp-Andoid-1\\AndoidAppAPI\\AndoidAppAPI\\Models\\Category\\CategoryCreateModel.cs",
-              "RelativeToolTip": "AndoidAppAPI\\Models\\Category\\CategoryCreateModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-01T10:47:32.698Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "AppMapperProfile.cs",
-              "DocumentMoniker": "D:\\Code\\IT-Step-Projects\\MyApp-Andoid-1\\AndoidAppAPI\\AndoidAppAPI\\Mapper\\AppMapperProfile.cs",
-              "RelativeDocumentMoniker": "AndoidAppAPI\\Mapper\\AppMapperProfile.cs",
-              "ToolTip": "D:\\Code\\IT-Step-Projects\\MyApp-Andoid-1\\AndoidAppAPI\\AndoidAppAPI\\Mapper\\AppMapperProfile.cs",
-              "RelativeToolTip": "AndoidAppAPI\\Mapper\\AppMapperProfile.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-01T10:46:17.78Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "CategoryController.cs",
-              "DocumentMoniker": "D:\\Code\\IT-Step-Projects\\MyApp-Andoid-1\\AndoidAppAPI\\AndoidAppAPI\\Controllers\\CategoryController.cs",
-              "RelativeDocumentMoniker": "AndoidAppAPI\\Controllers\\CategoryController.cs",
-              "ToolTip": "D:\\Code\\IT-Step-Projects\\MyApp-Andoid-1\\AndoidAppAPI\\AndoidAppAPI\\Controllers\\CategoryController.cs",
-              "RelativeToolTip": "AndoidAppAPI\\Controllers\\CategoryController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-01T10:29:56.039Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "D:\\Code\\IT-Step-Projects\\MyApp-Andoid-1\\AndoidAppAPI\\AndoidAppAPI\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "AndoidAppAPI\\Properties\\launchSettings.json",
-              "ToolTip": "D:\\Code\\IT-Step-Projects\\MyApp-Andoid-1\\AndoidAppAPI\\AndoidAppAPI\\Properties\\launchSettings.json",
-              "RelativeToolTip": "AndoidAppAPI\\Properties\\launchSettings.json",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAuwBAAAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-10-01T10:48:13.55Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "CategoryItemModel.cs",
-              "DocumentMoniker": "D:\\Code\\IT-Step-Projects\\MyApp-Andoid-1\\AndoidAppAPI\\AndoidAppAPI\\Models\\Category\\CategoryItemModel.cs",
-              "RelativeDocumentMoniker": "AndoidAppAPI\\Models\\Category\\CategoryItemModel.cs",
-              "ToolTip": "D:\\Code\\IT-Step-Projects\\MyApp-Andoid-1\\AndoidAppAPI\\AndoidAppAPI\\Models\\Category\\CategoryItemModel.cs",
-              "RelativeToolTip": "AndoidAppAPI\\Models\\Category\\CategoryItemModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Title": "ImageWorker.cs",
+              "DocumentMoniker": "D:\\Code\\IT-Step-Projects\\MyApp-Andoid-1\\AndoidAppAPI\\AndoidAppAPI\\Services\\ImageWorker.cs",
+              "RelativeDocumentMoniker": "AndoidAppAPI\\Services\\ImageWorker.cs",
+              "ToolTip": "D:\\Code\\IT-Step-Projects\\MyApp-Andoid-1\\AndoidAppAPI\\AndoidAppAPI\\Services\\ImageWorker.cs",
+              "RelativeToolTip": "AndoidAppAPI\\Services\\ImageWorker.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-01T10:48:01.224Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "D:\\Code\\IT-Step-Projects\\MyApp-Andoid-1\\AndoidAppAPI\\AndoidAppAPI\\Data\\ApplicationDbContext.cs",
-              "RelativeDocumentMoniker": "AndoidAppAPI\\Data\\ApplicationDbContext.cs",
-              "ToolTip": "D:\\Code\\IT-Step-Projects\\MyApp-Andoid-1\\AndoidAppAPI\\AndoidAppAPI\\Data\\ApplicationDbContext.cs",
-              "RelativeToolTip": "AndoidAppAPI\\Data\\ApplicationDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-01T10:43:03.377Z"
+              "WhenOpened": "2024-11-07T15:16:41.597Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -205,9 +238,10 @@
               "RelativeDocumentMoniker": "AndoidAppAPI\\Data\\Entities\\CategoryEntity.cs",
               "ToolTip": "D:\\Code\\IT-Step-Projects\\MyApp-Andoid-1\\AndoidAppAPI\\AndoidAppAPI\\Data\\Entities\\CategoryEntity.cs",
               "RelativeToolTip": "AndoidAppAPI\\Data\\Entities\\CategoryEntity.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-01T10:45:16.062Z"
+              "WhenOpened": "2024-10-01T10:45:16.062Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -217,9 +251,140 @@
               "RelativeDocumentMoniker": "AndoidAppAPI\\Data\\Entities\\ProductEntity.cs",
               "ToolTip": "D:\\Code\\IT-Step-Projects\\MyApp-Andoid-1\\AndoidAppAPI\\AndoidAppAPI\\Data\\Entities\\ProductEntity.cs",
               "RelativeToolTip": "AndoidAppAPI\\Data\\Entities\\ProductEntity.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-01T10:45:31.328Z"
+              "WhenOpened": "2024-10-01T10:45:31.328Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "D:\\Code\\IT-Step-Projects\\MyApp-Andoid-1\\AndoidAppAPI\\AndoidAppAPI\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "AndoidAppAPI\\Controllers\\CategoryController.cs",
+              "ToolTip": "D:\\Code\\IT-Step-Projects\\MyApp-Andoid-1\\AndoidAppAPI\\AndoidAppAPI\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "AndoidAppAPI\\Controllers\\CategoryController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T10:29:56.039Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ProductViewModel.cs",
+              "DocumentMoniker": "D:\\Code\\IT-Step-Projects\\MyApp-Andoid-1\\AndoidAppAPI\\AndoidAppAPI\\Models\\Product\\ProductViewModel.cs",
+              "RelativeDocumentMoniker": "AndoidAppAPI\\Models\\Product\\ProductViewModel.cs",
+              "ToolTip": "D:\\Code\\IT-Step-Projects\\MyApp-Andoid-1\\AndoidAppAPI\\AndoidAppAPI\\Models\\Product\\ProductViewModel.cs",
+              "RelativeToolTip": "AndoidAppAPI\\Models\\Product\\ProductViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T15:15:34.989Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AndoidAppAPI.csproj",
+              "DocumentMoniker": "D:\\Code\\IT-Step-Projects\\MyApp-Andoid-1\\AndoidAppAPI\\AndoidAppAPI\\AndoidAppAPI.csproj",
+              "RelativeDocumentMoniker": "AndoidAppAPI\\AndoidAppAPI.csproj",
+              "ToolTip": "D:\\Code\\IT-Step-Projects\\MyApp-Andoid-1\\AndoidAppAPI\\AndoidAppAPI\\AndoidAppAPI.csproj",
+              "RelativeToolTip": "AndoidAppAPI\\AndoidAppAPI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-04T14:50:49.218Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CategoryItemModel.cs",
+              "DocumentMoniker": "D:\\Code\\IT-Step-Projects\\MyApp-Andoid-1\\AndoidAppAPI\\AndoidAppAPI\\Models\\Category\\CategoryItemModel.cs",
+              "RelativeDocumentMoniker": "AndoidAppAPI\\Models\\Category\\CategoryItemModel.cs",
+              "ToolTip": "D:\\Code\\IT-Step-Projects\\MyApp-Andoid-1\\AndoidAppAPI\\AndoidAppAPI\\Models\\Category\\CategoryItemModel.cs",
+              "RelativeToolTip": "AndoidAppAPI\\Models\\Category\\CategoryItemModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T10:48:01.224Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CategoryCreateModel.cs",
+              "DocumentMoniker": "D:\\Code\\IT-Step-Projects\\MyApp-Andoid-1\\AndoidAppAPI\\AndoidAppAPI\\Models\\Category\\CategoryCreateModel.cs",
+              "RelativeDocumentMoniker": "AndoidAppAPI\\Models\\Category\\CategoryCreateModel.cs",
+              "ToolTip": "D:\\Code\\IT-Step-Projects\\MyApp-Andoid-1\\AndoidAppAPI\\AndoidAppAPI\\Models\\Category\\CategoryCreateModel.cs",
+              "RelativeToolTip": "AndoidAppAPI\\Models\\Category\\CategoryCreateModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T10:47:32.698Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IImageWorker.cs",
+              "DocumentMoniker": "D:\\Code\\IT-Step-Projects\\MyApp-Andoid-1\\AndoidAppAPI\\AndoidAppAPI\\Interfaces\\IImageWorker.cs",
+              "RelativeDocumentMoniker": "AndoidAppAPI\\Interfaces\\IImageWorker.cs",
+              "ToolTip": "D:\\Code\\IT-Step-Projects\\MyApp-Andoid-1\\AndoidAppAPI\\AndoidAppAPI\\Interfaces\\IImageWorker.cs",
+              "RelativeToolTip": "AndoidAppAPI\\Interfaces\\IImageWorker.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T15:17:32.364Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Code\\IT-Step-Projects\\MyApp-Andoid-1\\AndoidAppAPI\\AndoidAppAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "AndoidAppAPI\\appsettings.json",
+              "ToolTip": "D:\\Code\\IT-Step-Projects\\MyApp-Andoid-1\\AndoidAppAPI\\AndoidAppAPI\\appsettings.json",
+              "RelativeToolTip": "AndoidAppAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-05T10:51:12.673Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\Code\\IT-Step-Projects\\MyApp-Andoid-1\\AndoidAppAPI\\AndoidAppAPI\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "AndoidAppAPI\\appsettings.Development.json",
+              "ToolTip": "D:\\Code\\IT-Step-Projects\\MyApp-Andoid-1\\AndoidAppAPI\\AndoidAppAPI\\appsettings.Development.json",
+              "RelativeToolTip": "AndoidAppAPI\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-05T10:51:23.115Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "20241005110212_Init Migration.cs",
+              "DocumentMoniker": "D:\\Code\\IT-Step-Projects\\MyApp-Andoid-1\\AndoidAppAPI\\AndoidAppAPI\\Migrations\\20241005110212_Init Migration.cs",
+              "RelativeDocumentMoniker": "AndoidAppAPI\\Migrations\\20241005110212_Init Migration.cs",
+              "ToolTip": "D:\\Code\\IT-Step-Projects\\MyApp-Andoid-1\\AndoidAppAPI\\AndoidAppAPI\\Migrations\\20241005110212_Init Migration.cs",
+              "RelativeToolTip": "AndoidAppAPI\\Migrations\\20241005110212_Init Migration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T11:02:30.626Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\Code\\IT-Step-Projects\\MyApp-Andoid-1\\AndoidAppAPI\\AndoidAppAPI\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "AndoidAppAPI\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\Code\\IT-Step-Projects\\MyApp-Andoid-1\\AndoidAppAPI\\AndoidAppAPI\\Properties\\launchSettings.json",
+              "RelativeToolTip": "AndoidAppAPI\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAuwBAAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-01T10:48:13.55Z",
+              "EditorCaption": ""
             }
           ]
         }

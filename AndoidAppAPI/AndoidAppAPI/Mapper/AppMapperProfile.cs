@@ -1,9 +1,9 @@
 ﻿using AutoMapper;
-using WebSimba.Data.Entities;
-using WebSimba.Models.Category;
+using AndoidAppAPI.Data.Entities;
+using AndoidAppAPI.Models.Category;
 using static System.Runtime.InteropServices.JavaScript.JSType;
 
-namespace WebSimba.Mapper
+namespace AndoidAppAPI.Mapper
 {
     public class AppMapperProfile : Profile
     {

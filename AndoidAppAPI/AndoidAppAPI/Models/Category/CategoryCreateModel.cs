@@ -1,4 +1,4 @@
-﻿namespace WebSimba.Models.Category
+﻿namespace AndoidAppAPI.Models.Category
 {
     public class CategoryCreateModel
     {

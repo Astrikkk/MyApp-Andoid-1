@@ -1,7 +1,7 @@
 ﻿using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
 
-namespace WebSimba.Data.Entities
+namespace AndoidAppAPI.Data.Entities
 {
     [Table("tblProducts")]
     public class ProductEntity
@@ -15,5 +15,6 @@ namespace WebSimba.Data.Entities
         public int CategoryId { get; set; }
         // Навігаційна властивість
         public virtual CategoryEntity? Category { get; set; }
+        public virtual ICollection<ProductImageEntity>? Images { get; set; }
     }
 }

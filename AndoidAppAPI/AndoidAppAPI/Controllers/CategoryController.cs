@@ -4,11 +4,11 @@ using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using System.IO;
-using WebSimba.Data;
-using WebSimba.Data.Entities;
-using WebSimba.Models.Category;
+using AndoidAppAPI.Data;
+using AndoidAppAPI.Data.Entities;
+using AndoidAppAPI.Models.Category;
 
-namespace WebSimba.Controllers
+namespace AndoidAppAPI.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
